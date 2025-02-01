@@ -4,4 +4,4 @@
 - 🌱 I’m pursuing the M.S. degree with the School of Computer Science and Engineering, Sun Yat-sen University, China.
 - 🐕 The avatar is my dog.
 
-<div align="center"> <img height="137px" src="h![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZOMIN28&hide_title=true&show_icons=true&theme=dark)" /> </div>
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ZOMIN28&hide_title=true&show_icons=true&theme=dark" /> </div>
