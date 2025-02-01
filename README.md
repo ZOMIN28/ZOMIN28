@@ -5,3 +5,5 @@
 - 🐕 The avatar is my dog.
 
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ZOMIN28&hide_title=true&show_icons=true&theme=dark" /> </div>
+
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=ZOMIN28" /> </div>
